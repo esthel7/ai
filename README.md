@@ -1,5 +1,7 @@
 # ✨AI
+```git
 ⚡ 2022.11 ~
+```
 ```git
 📌 python, google colab
 ```
